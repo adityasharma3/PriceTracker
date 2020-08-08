@@ -5,7 +5,7 @@ A simple python script that alerts users when a certain products price below the
 ---
 ## Installing dependencies
 ```bash
-    pip -r requirements.txt
+    pip install -r requirements.txt
 ```
 
 ```python
