@@ -3,7 +3,7 @@
 A simple python script that alerts users when a certain products price below their budget by sending out an email.
 
 ---
-##Installing dependencies
+## Installing dependencies
 ```bash
     pip -r requirements.txt
 ```
